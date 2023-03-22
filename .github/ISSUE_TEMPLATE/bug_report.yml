@@ -1,0 +1,25 @@
+name: "🐛 Bug Report"
+description: "If something isn't working as expected 🤔."
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for taking the time to file a bug report! Please fill out this form as completely as possible.
+
+  - type: textarea
+    attributes:
+      label: Current and expected behavior
+      description: What is Apkutabe doing and what you would expect instead?
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Environment & Operating System
+      description: |
+        What OS are you using? What Kubernetes version/distribution is it?
+      placeholder: |
+        macOS Catalina? Windows 10? Ubuntu Linux?
+        Kubernetes 1.26? 1.24? EKS? GKE? OpenShift? Vanilla?
+    validations:
+      required: true
