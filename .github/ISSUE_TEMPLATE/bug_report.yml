@@ -9,7 +9,7 @@ body:
   - type: textarea
     attributes:
       label: Current and expected behavior
-      description: What is Apkutabe doing and what you would expect instead?
+      description: What is KIP App doing and what you would expect instead?
     validations:
       required: true
 
@@ -17,9 +17,9 @@ body:
     attributes:
       label: Environment & Operating System
       description: |
-        What OS are you using? What Kubernetes version/distribution is it?
+        What OS are you using? What AWS CLI version/distribution is it?
       placeholder: |
         macOS Catalina? Windows 10? Ubuntu Linux?
-        Kubernetes 1.26? 1.24? EKS? GKE? OpenShift? Vanilla?
+        AWS CLI 2.10.0?
     validations:
       required: true
