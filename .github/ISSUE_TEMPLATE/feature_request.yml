@@ -1,5 +1,5 @@
 name: "🚀 Feature Request"
-description: "I have a suggestion for Aptakube!"
+description: "I have a suggestion for KIP App!"
 labels: ["feature request"]
 body:
   - type: markdown
