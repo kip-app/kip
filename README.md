@@ -3,8 +3,8 @@
 ## Features
 
 <!-- - 💯 Connect to one or more clusters simultaneously -->
-<!-- - ⚡️ Aggregated Log Viewer -->
-<!-- - 💪 Human-friendly resource view -->
+- ⚡️ Direct Data Transfers
+- 💪 User-Friendly Interface
 <!-- - ✍️ View & modify objects -->
 <!-- - 🎉 Zero-config setup -->
 - 😉 **NOT** another Electron app
