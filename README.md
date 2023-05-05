@@ -11,11 +11,11 @@
 <!-- - ✅ Works with any Kubernetes cluster: on-prem, GKE, EKS, AKS and others. -->
 - 💻 Available on Windows, macOS and Linux
 
-Visit [https://www.getkipapp.com](https://www.getkipapp.com?utm_campaign=github_readme) to learn more.
+Visit [getkipapp.com](https://www.getkipapp.com?utm_campaign=github_readme) to learn more.
 
 ## Download
 
-- [Download Aptakube](https://www.getkipapp.com)
+- [Download KIP App](https://www.getkipapp.com)
 - [Changelog](https://www.getkipapp.com/changelog)
 
 ## Need help?
